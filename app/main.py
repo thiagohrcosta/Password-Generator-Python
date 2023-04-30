@@ -20,9 +20,9 @@ symbols = ["@", "!", "#", "$", "%", "&", "*", "(", ")", "%"]
 
 num_of_letters = int(input("How many letters would you like in your password? \n"))
 
-num_of_symbols = int(input("How many symbols would you like?"))
+num_of_symbols = int(input("How many symbols would you like? \n"))
 
-num_of_numbers = int(input("How many numers would you ike?"))
+num_of_numbers = int(input("How many numers would you like? \n"))
 
 letter_counter = 0
 
